@@ -1,4 +1,4 @@
 # New Project 
 
 This project was created from local systems.
-Created my Itika
+Created my Itika.
